@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    console_tree_renderer (0.1.0)
-      tty-tree (~> 0.3.0)
+    console_tree_renderer (0.1.2)
+      tty-tree (>= 0.3.0)
 
 GEM
   remote: https://rubygems.org/
@@ -23,7 +23,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.9.0)
     rspec-support (3.9.2)
-    tty-tree (0.3.0)
+    tty-tree (0.4.0)
 
 PLATFORMS
   ruby
